@@ -1,0 +1,4012 @@
+1
+00:00:13,726 --> 00:00:16,886
+A 600 KM ACIMA
+DO PLANETA TERRA
+
+2
+00:00:16,887 --> 00:00:20,967
+A TEMPERATURA OSCILA ENTRE
+126ºC E -100ºC
+
+3
+00:00:22,659 --> 00:00:25,118
+NÃO HÁ NADA
+PARA TRANSMITIR O SOM
+
+4
+00:00:25,119 --> 00:00:26,977
+NÃO HÁ PRESSÃO ATMOSFÉRICA
+
+5
+00:00:26,978 --> 00:00:29,144
+NÃO HÁ OXIGÊNIO
+
+6
+00:00:31,348 --> 00:00:34,389
+A VIDA NO ESPAÇO
+É IMPOSSÍVEL
+
+7
+00:00:36,486 --> 00:00:39,427
+GRAVIDADE
+
+8
+00:00:40,420 --> 00:00:43,920
+<b>Legenda: Nícolas</b>
+
+9
+00:00:43,921 --> 00:00:47,421
+<b>Legenda: IgoPH</b>
+
+10
+00:00:47,422 --> 00:00:50,422
+<b>[Equipe InSUBs]
+Qualidade é InSUBstituível!</b>
+
+11
+00:01:04,632 --> 00:01:06,909
+<i>Confirmando a conclusão
+das partes 1 e 2</i>
+
+12
+00:01:06,910 --> 00:01:10,253
+<i>da reposição
+no tanque de amônia da P1.</i>
+
+13
+00:01:10,690 --> 00:01:14,733
+<i>DMA M1, M2,
+M3 e M4 estão concluídos.</i>
+
+14
+00:01:14,734 --> 00:01:16,663
+<i>Certo.
+Entendido, Explorer.</i>
+
+15
+00:01:17,964 --> 00:01:19,530
+<i>Dra. Stone, Houston.</i>
+
+16
+00:01:19,531 --> 00:01:23,012
+<i>A leitura do seu ECG preocupa
+a equipe médica.</i>
+
+17
+00:01:23,013 --> 00:01:24,504
+Estou bem, Houston.
+
+18
+00:01:25,003 --> 00:01:28,529
+<i>A equipe médica não concorda.
+Está com náuseas?</i>
+
+19
+00:01:28,959 --> 00:01:32,293
+Não mais do que de costume,
+o diagnóstico diz "verde".
+
+20
+00:01:32,917 --> 00:01:35,704
+Canal de comunicação
+pronto para recepção de dados.
+
+21
+00:01:37,286 --> 00:01:41,310
+Se funcionar, pagarei uma rodada
+para todos ao pousarmos amanhã.
+
+22
+00:01:41,311 --> 00:01:42,944
+<i>Combinado, dra.</i>
+
+23
+00:01:42,945 --> 00:01:45,863
+<i>Lembre-se, Houston
+gosta muito de margarita.</i>
+
+24
+00:01:47,479 --> 00:01:49,346
+Iniciando
+cartão de comunicação.
+
+25
+00:01:50,098 --> 00:01:51,742
+Confirmem o recebimento.
+
+26
+00:01:52,327 --> 00:01:55,180
+<i>Negativo.
+Não estou vendo nenhum dado.</i>
+
+27
+00:01:55,982 --> 00:01:58,637
+Aguarde. Vou reiniciar
+o painel de comunicação.
+
+28
+00:01:58,638 --> 00:02:00,323
+<i>Aguardando.</i>
+
+29
+00:02:00,324 --> 00:02:03,073
+Tenho um mau pressentimento
+em relação a essa missão.
+
+30
+00:02:03,074 --> 00:02:04,769
+<i>Seja mais específico.</i>
+
+31
+00:02:04,770 --> 00:02:06,784
+Vou contar uma história.
+
+32
+00:02:06,785 --> 00:02:10,299
+Em 1996,
+eu estava aqui há 42 dias.
+
+33
+00:02:10,300 --> 00:02:13,466
+Ao passar sobre o Texas,
+olhei para baixo.
+
+34
+00:02:13,467 --> 00:02:16,050
+A sra. Kowalski devia estar
+olhando para cima,
+
+35
+00:02:16,051 --> 00:02:17,502
+pensando em mim.
+
+36
+00:02:17,503 --> 00:02:20,281
+Por seis semanas, mandei beijos
+para aquela mulher.
+
+37
+00:02:20,282 --> 00:02:21,802
+Quando pousamos,
+soube que ela
+
+38
+00:02:21,803 --> 00:02:23,884
+tinha um caso
+com um advogado.
+
+39
+00:02:23,885 --> 00:02:27,088
+- Fiz as malas e fui...
+- Para New Orleans.
+
+40
+00:02:27,089 --> 00:02:28,995
+<i>Já contou essa história,
+Kowalski.</i>
+
+41
+00:02:28,996 --> 00:02:33,174
+<i>Pelo que Houston lembra,
+ela ficou com seu GTO 74.</i>
+
+42
+00:02:33,175 --> 00:02:35,358
+<i>A Engenharia quer que verifique
+o combustível</i>
+
+43
+00:02:35,359 --> 00:02:36,920
+<i>do protótipo do jetpack.</i>
+
+44
+00:02:36,921 --> 00:02:40,620
+Cinco horas fora da Explorer
+e o consumo foi de 30%.
+
+45
+00:02:40,621 --> 00:02:42,315
+Meus parabéns à Engenharia.
+
+46
+00:02:42,316 --> 00:02:45,187
+Exceto por uma falha
+no eixo,
+
+47
+00:02:45,188 --> 00:02:48,727
+esse jetpack
+é um excelente propulsor.
+
+48
+00:02:48,728 --> 00:02:50,329
+<i>A Engenharia agradece.</i>
+
+49
+00:02:50,330 --> 00:02:53,296
+Ainda prefiro
+o meu Corvette 67.
+
+50
+00:02:53,297 --> 00:02:56,697
+- Eu já contei...
+- Já sei a história do Corvette.
+
+51
+00:02:56,698 --> 00:02:58,043
+E a Engenharia?
+
+52
+00:02:58,044 --> 00:03:00,056
+<i>Principalmente a Engenharia.</i>
+
+53
+00:03:01,044 --> 00:03:02,972
+<i>Sentiremos sua falta, Matt.</i>
+
+54
+00:03:02,973 --> 00:03:05,559
+Reinício do cartão
+de comunicação em andamento.
+
+55
+00:03:05,560 --> 00:03:06,999
+<i>Obrigado, doutora.</i>
+
+56
+00:03:07,000 --> 00:03:10,172
+<i>- Shariff, qual é seu status?
+- Estou terminando.</i>
+
+57
+00:03:10,173 --> 00:03:13,417
+Trocando
+o módulo de bateria A1 e C.
+
+58
+00:03:15,004 --> 00:03:16,922
+<i>Poderia ser
+um pouco mais específico?</i>
+
+59
+00:03:16,923 --> 00:03:19,540
+<i>Estimativas imprecisas
+deixam Houston ansioso.</i>
+
+60
+00:03:19,541 --> 00:03:22,369
+Não, Houston.
+Não fique ansioso.
+
+61
+00:03:22,370 --> 00:03:24,946
+Ansiedade não faz bem
+para o coração.
+
+62
+00:03:24,947 --> 00:03:27,123
+O sistema está pronto
+para reiniciar.
+
+63
+00:03:28,169 --> 00:03:31,772
+Telescópio Hubble ativado.
+Atualização bem-sucedida.
+
+64
+00:03:31,773 --> 00:03:34,423
+<i>Esses aplausos que está ouvindo
+são para você, Shariff.</i>
+
+65
+00:03:34,424 --> 00:03:37,935
+<i>Parabéns. Relaxe.
+Tirem o resto do dia de folga.</i>
+
+66
+00:03:42,569 --> 00:03:43,993
+<i>Consegue ver</i>
+
+67
+00:03:43,994 --> 00:03:47,379
+<i>o que o especialista Shariff
+está fazendo aí?</i>
+
+68
+00:03:47,380 --> 00:03:50,735
+Acho que está dançando
+algo parecido com Macarena.
+
+69
+00:03:50,736 --> 00:03:54,330
+Mas isso é um mero chute
+da minha parte.
+
+70
+00:03:54,331 --> 00:03:56,362
+<i>Dra. Stone, Houston.</i>
+
+71
+00:03:56,363 --> 00:03:59,502
+<i>Sua temperatura caiu 2,16ºC</i>
+
+72
+00:03:59,503 --> 00:04:01,751
+<i>e a frequência cardíaca
+subiu para 70.</i>
+
+73
+00:04:02,552 --> 00:04:06,060
+<i>- Como está se sentindo?
+- Estou bem.</i>
+
+74
+00:04:06,061 --> 00:04:07,577
+Com a falta de gravidade
+
+75
+00:04:07,578 --> 00:04:10,007
+é mais difícil do que parece
+não vomitar o almoço.
+
+76
+00:04:10,008 --> 00:04:12,060
+<i>A equipe médica perguntou</i>
+
+77
+00:04:12,061 --> 00:04:14,231
+<i>se não quer voltar
+para a Explorer.</i>
+
+78
+00:04:14,232 --> 00:04:16,120
+Negativo.
+Estamos aqui há uma semana,
+
+79
+00:04:16,121 --> 00:04:17,869
+então vamos terminar isso.
+
+80
+00:04:17,870 --> 00:04:20,009
+Receberam algo?
+
+81
+00:04:20,010 --> 00:04:24,540
+<i>Negativo.
+Não recebemos nada aqui.</i>
+
+82
+00:04:25,652 --> 00:04:27,314
+Tente de novo.
+
+83
+00:04:27,315 --> 00:04:29,236
+<i>Ainda não recebemos nada.</i>
+
+84
+00:04:31,366 --> 00:04:33,633
+Houston,
+pode desligar essa música?
+
+85
+00:04:33,634 --> 00:04:35,348
+<i>Kowalski.</i>
+
+86
+00:04:35,349 --> 00:04:36,954
+Sem problema.
+
+87
+00:04:36,955 --> 00:04:38,675
+Obrigada, Kowalski.
+
+88
+00:04:41,932 --> 00:04:45,554
+<i>- E agora, Houston?
+- Nada.</i>
+
+89
+00:04:45,555 --> 00:04:48,522
+Não estão interpretando os dados
+incorretamente?
+
+90
+00:04:48,523 --> 00:04:50,793
+<i>Não estamos recebendo nada.</i>
+
+91
+00:04:51,606 --> 00:04:53,778
+<i>A Engenharia pediu
+para verificar</i>
+
+92
+00:04:53,779 --> 00:04:55,763
+<i>se não há
+componentes danificados.</i>
+
+93
+00:04:56,620 --> 00:04:58,446
+Vou checar
+o que está havendo.
+
+94
+00:04:59,652 --> 00:05:01,317
+Qual é o problema?
+
+95
+00:05:08,950 --> 00:05:11,843
+Não parece que tem danos
+nos componentes.
+
+96
+00:05:11,844 --> 00:05:14,784
+Talvez o problema seja
+no painel de comunicação.
+
+97
+00:05:14,785 --> 00:05:17,027
+<i>Parece que é isso.</i>
+
+98
+00:05:17,028 --> 00:05:20,909
+<i>A Engenharia admite
+que você avisou sobre isso.</i>
+
+99
+00:05:20,910 --> 00:05:23,564
+<i>É o máximo que vai conseguir
+como desculpa.</i>
+
+100
+00:05:23,565 --> 00:05:25,134
+<i>Deveríamos ter lhe ouvido.</i>
+
+101
+00:05:25,986 --> 00:05:28,175
+<i>Você vai ter que improvisar.</i>
+
+102
+00:05:28,176 --> 00:05:29,661
+Estou trabalhando nisso.
+
+103
+00:05:30,415 --> 00:05:32,397
+<i>Quanto tempo
+acha que vai levar?</i>
+
+104
+00:05:32,398 --> 00:05:34,377
+Uma hora.
+
+105
+00:05:34,478 --> 00:05:35,941
+<i>Magnífico.</i>
+
+106
+00:05:35,942 --> 00:05:38,961
+<i>Instalar seu sistema no Hubble
+é a finalidade dessa missão.</i>
+
+107
+00:05:38,962 --> 00:05:41,716
+<i>Agradecemos a sua paciência,
+doutora.</i>
+
+108
+00:05:41,717 --> 00:05:44,929
+<i>Kowalski, sabemos que não liga
+para essas coisas,</i>
+
+109
+00:05:44,930 --> 00:05:49,765
+<i>mas o atraso
+não tira de Anatoly Solovyev</i>
+
+110
+00:05:49,766 --> 00:05:52,809
+<i>o recorde da caminhada espacial.
+O seu ainda ficará...</i>
+
+111
+00:05:52,810 --> 00:05:54,815
+75 minutos a menos?
+
+112
+00:05:54,816 --> 00:05:56,576
+Não havia pensado nisso.
+
+113
+00:05:57,209 --> 00:05:59,011
+<i>Matt.</i>
+
+114
+00:05:59,012 --> 00:06:00,991
+<i>Foi um privilégio.</i>
+
+115
+00:06:00,992 --> 00:06:03,195
+Digo o mesmo, Houston.
+
+116
+00:06:03,196 --> 00:06:05,181
+<i>Aproveite
+a sua última caminhada.</i>
+
+117
+00:06:05,780 --> 00:06:09,080
+Posso ajudar a dra. Stone
+a remover o painel?
+
+118
+00:06:09,081 --> 00:06:11,793
+<i>- Uma ajuda seria muito bom.
+- Permissão concedida.</i>
+
+119
+00:06:11,794 --> 00:06:14,060
+Obrigado, Houston.
+
+120
+00:06:14,061 --> 00:06:16,584
+- Posso brincar também?
+- Claro.
+
+121
+00:06:16,585 --> 00:06:18,176
+Como você está?
+
+122
+00:06:19,353 --> 00:06:22,324
+Como um Chihuahua
+em uma secadora de roupa.
+
+123
+00:06:22,325 --> 00:06:24,278
+Foi uma semana difícil.
+
+124
+00:06:25,078 --> 00:06:26,492
+Se serve de consolo,
+
+125
+00:06:26,493 --> 00:06:30,366
+só não vomitei meus rins
+na primeira vez.
+
+126
+00:06:30,367 --> 00:06:31,811
+Droga.
+
+127
+00:06:37,853 --> 00:06:39,233
+Desculpe.
+
+128
+00:06:40,345 --> 00:06:44,329
+Trabalho em um laboratório
+onde as coisas caem no chão.
+
+129
+00:06:44,330 --> 00:06:45,959
+Obrigada.
+
+130
+00:06:45,960 --> 00:06:49,823
+Você é o gênio aqui.
+Eu só dirijo o ônibus.
+
+131
+00:06:49,824 --> 00:06:52,232
+Só me chame de gênio
+
+132
+00:06:52,233 --> 00:06:54,633
+se isso estiver funcionando
+em uma hora.
+
+133
+00:06:54,634 --> 00:06:56,773
+<i>Explorer, aqui é Houston.</i>
+
+134
+00:06:56,774 --> 00:06:58,074
+<i>Prossiga, Houston.</i>
+
+135
+00:06:58,075 --> 00:07:00,344
+<i>NORAD informa
+que um satélite russo</i>
+
+136
+00:07:00,345 --> 00:07:02,104
+<i>foi atingido por um míssil.</i>
+
+137
+00:07:02,105 --> 00:07:05,050
+<i>Uma nuvem de detritos
+foi criada no choque,</i>
+
+138
+00:07:05,051 --> 00:07:07,863
+<i>orbitando a 32 mil km/h.</i>
+
+139
+00:07:07,864 --> 00:07:11,467
+<i>A órbita dos destroços
+não passará por vocês.</i>
+
+140
+00:07:11,468 --> 00:07:13,736
+<i>Informaremos
+qualquer mudanças.</i>
+
+141
+00:07:13,737 --> 00:07:15,419
+<i>Entendido, Houston.</i>
+
+142
+00:07:15,420 --> 00:07:17,651
+Devemos nos preocupar?
+
+143
+00:07:17,652 --> 00:07:20,687
+Deixe
+que se preocupem por nós.
+
+144
+00:07:22,021 --> 00:07:24,691
+Explorer,
+vou ativar o braço.
+
+145
+00:07:24,692 --> 00:07:26,963
+<i>Prepare-se
+para movimentar o braço.</i>
+
+146
+00:07:27,664 --> 00:07:31,330
+Agora que trabalha para a NASA,
+o que acha da gente?
+
+147
+00:07:31,331 --> 00:07:33,725
+É como ganhar na loteria.
+
+148
+00:07:33,726 --> 00:07:36,684
+Fico feliz por continuarem
+fazendo minha pesquisa.
+
+149
+00:07:36,685 --> 00:07:38,462
+Quanto tempo durou
+o seu treinamento?
+
+150
+00:07:38,463 --> 00:07:39,763
+Seis meses.
+
+151
+00:07:39,764 --> 00:07:41,261
+- Contando as férias?
+- É.
+
+152
+00:07:41,262 --> 00:07:44,260
+O que é
+esse sistema de sondagem?
+
+153
+00:07:44,261 --> 00:07:46,674
+Nada.
+São só mais dois olhos
+
+154
+00:07:46,675 --> 00:07:48,458
+para examinar
+os limites do universo.
+
+155
+00:07:48,459 --> 00:07:52,021
+É usado em hospitais,
+mas esse é um protótipo.
+
+156
+00:07:52,022 --> 00:07:53,558
+<i>Preparem-se para o encaixe.</i>
+
+157
+00:07:53,559 --> 00:07:57,216
+Eles não financiam
+protótipos.
+
+158
+00:07:57,217 --> 00:08:00,194
+Foram
+os seus lindos olhos azuis.
+
+159
+00:08:00,195 --> 00:08:02,816
+Meus olhos são castanhos.
+
+160
+00:08:04,594 --> 00:08:06,712
+Agora,
+seus olhos estão avermelhados.
+
+161
+00:08:07,213 --> 00:08:10,948
+Kowalski,
+isso não é demais?
+
+162
+00:08:16,221 --> 00:08:18,332
+E pensar
+que ele estudou em Harvard.
+
+163
+00:08:20,800 --> 00:08:22,659
+Mas temos que admitir algo.
+
+164
+00:08:23,735 --> 00:08:25,627
+A vista é incomparável.
+
+165
+00:08:29,663 --> 00:08:31,773
+Do que você gosta
+aqui em cima?
+
+166
+00:08:33,776 --> 00:08:35,574
+O silêncio.
+
+167
+00:08:36,905 --> 00:08:38,920
+Posso me acostumar com ele.
+
+168
+00:08:59,665 --> 00:09:01,008
+É fantástico.
+
+169
+00:09:01,009 --> 00:09:04,394
+Houston, acho que o painel
+de comunicação está inativo.
+
+170
+00:09:04,395 --> 00:09:07,094
+Estou autorizada a usar
+o painel auxiliar?
+
+171
+00:09:07,095 --> 00:09:09,616
+<i>Você é a especialista.
+A decisão é sua.</i>
+
+172
+00:09:09,617 --> 00:09:12,449
+Tenho um mau pressentimento
+em relação a essa missão.
+
+173
+00:09:12,450 --> 00:09:14,049
+<i>Explique-se melhor.</i>
+
+174
+00:09:14,050 --> 00:09:17,839
+É o mesmo que tive
+no carnaval de 1987.
+
+175
+00:09:18,695 --> 00:09:20,044
+<i>Continue.</i>
+
+176
+00:09:20,045 --> 00:09:23,580
+<i>É surpreendente, mas ainda
+não ouvimos essa história.</i>
+
+177
+00:09:23,581 --> 00:09:25,085
+<i>Por favor, prossiga.</i>
+
+178
+00:09:25,086 --> 00:09:28,435
+Era o primeiro dia de carnaval
+e estava caminhando na Bourbon,
+
+179
+00:09:28,436 --> 00:09:31,467
+procurando pela irmã
+de um amigo.
+
+180
+00:09:31,468 --> 00:09:34,759
+Ruas lotadas de gente, e penso:
+"Como vou encontrá-la?"
+
+181
+00:09:34,760 --> 00:09:36,227
+Iniciando a troca.
+
+182
+00:09:36,228 --> 00:09:39,949
+De repente, eu a vejo.
+Estava prestes a gritar,
+
+183
+00:09:39,950 --> 00:09:41,760
+quando vejo
+que ela está de mãos dadas
+
+184
+00:09:41,761 --> 00:09:45,122
+com um cara peludo
+de bermuda e camiseta.
+
+185
+00:09:45,123 --> 00:09:48,589
+Depois percebi
+que ele não é um homem.
+
+186
+00:09:48,590 --> 00:09:50,825
+Ela estava de mãos dadas...
+
+187
+00:09:50,826 --> 00:09:52,946
+<i>EEI, aqui é a Houston.</i>
+
+188
+00:09:52,947 --> 00:09:55,597
+<i>- Explorer, aqui é a Houston.
+- Prossiga, Houston.</i>
+
+189
+00:09:55,598 --> 00:09:58,661
+<i>Abortar missão.
+Repito, abortar missão.</i>
+
+190
+00:09:58,662 --> 00:10:00,675
+<i>Desconectem-se do Hubble.</i>
+
+191
+00:10:00,676 --> 00:10:02,307
+<i>Iniciem
+procedimento de reentrada.</i>
+
+192
+00:10:02,308 --> 00:10:04,607
+<i>EEI,
+iniciar evacuação de emergência.</i>
+
+193
+00:10:04,608 --> 00:10:06,400
+<i>Entendido.
+Iniciando procedimento.</i>
+
+194
+00:10:06,401 --> 00:10:10,312
+<i>Matt, volte para a Explorer.
+Imediatamente.</i>
+
+195
+00:10:10,313 --> 00:10:12,563
+Entendido, Explorer.
+Prepare a câmara de vácuo.
+
+196
+00:10:12,564 --> 00:10:15,132
+<i>- Está pronta.
+- Houston, o que está havendo?</i>
+
+197
+00:10:15,133 --> 00:10:18,085
+<i>Detritos do míssil
+causaram uma reação em cadeia,</i>
+
+198
+00:10:18,086 --> 00:10:20,835
+<i>atingindo outros satélites,
+criando novos detritos.</i>
+
+199
+00:10:20,836 --> 00:10:24,629
+<i>Estão vindo na sua direção
+em alta velocidade.</i>
+
+200
+00:10:24,630 --> 00:10:26,454
+<i>- Entendido?
+- Entendido.</i>
+
+201
+00:10:26,455 --> 00:10:29,485
+- Temos que parar, dra. Stone.
+- Não posso.
+
+202
+00:10:29,486 --> 00:10:31,784
+O painel
+ainda está inicializando.
+
+203
+00:10:31,785 --> 00:10:34,372
+- Não vou pedir de novo.
+- Só um segundo.
+
+204
+00:10:34,373 --> 00:10:36,163
+Nem um segundo.
+Agora.
+
+205
+00:10:36,164 --> 00:10:37,929
+Desligue-o.
+
+206
+00:10:37,930 --> 00:10:39,816
+É uma ordem.
+
+207
+00:10:39,817 --> 00:10:42,586
+Desculpe.
+Já acabei.
+
+208
+00:10:42,587 --> 00:10:45,306
+<i>Kowalski,
+desconecte-se do Hubble.</i>
+
+209
+00:10:45,307 --> 00:10:47,824
+- Certo, Shariff, vamos lá.
+- Entendido, Matt.
+
+210
+00:10:47,825 --> 00:10:51,177
+<i>- Qual a situação?
+- A reação em cadeia é enorme.</i>
+
+211
+00:10:51,178 --> 00:10:53,956
+<i>Foi confirmado: é o efeito
+colateral involuntário</i>
+
+212
+00:10:53,957 --> 00:10:56,562
+<i>dos russos atirando
+em seu próprio satélite.</i>
+
+213
+00:10:56,563 --> 00:10:58,226
+Atiraram
+no próprio satélite?
+
+214
+00:10:58,227 --> 00:11:01,462
+Provavelmente era
+um satélite espião inativo.
+
+215
+00:11:01,463 --> 00:11:02,763
+Foi fragmentado.
+
+216
+00:11:02,764 --> 00:11:04,646
+Preparado
+para desativar o Hubble.
+
+217
+00:11:04,647 --> 00:11:08,037
+<i>Desconectando
+em três, dois, um.</i>
+
+218
+00:11:08,638 --> 00:11:11,220
+Explorer,
+recebendo novos dados.
+
+219
+00:11:11,221 --> 00:11:14,016
+<i>- O que diz aí, Houston?
+- Nada bom.</i>
+
+220
+00:11:14,017 --> 00:11:16,367
+<i>A maioria dos nossos sistemas
+parou de funcionar.</i>
+
+221
+00:11:16,368 --> 00:11:18,323
+<i>A reação em cadeia
+está fora de controle.</i>
+
+222
+00:11:18,324 --> 00:11:19,636
+<i>E crescendo rapidamente.</i>
+
+223
+00:11:19,637 --> 00:11:22,476
+<i>Vários satélites
+estão desconectados.</i>
+
+224
+00:11:22,477 --> 00:11:25,604
+<i>- Quantos?
+- Quase todos.</i>
+
+225
+00:11:25,605 --> 00:11:27,840
+<i>Sistemas de comunicação
+não funcionam.</i>
+
+226
+00:11:27,841 --> 00:11:30,322
+<i>Vamos ter
+blecaute de comunicação.</i>
+
+227
+00:11:30,323 --> 00:11:32,494
+<i>Kowalski,
+detritos vindo à sua esquerda.</i>
+
+228
+00:11:32,495 --> 00:11:34,953
+Metade dos EUA ficou
+sem Facebook.
+
+229
+00:11:34,954 --> 00:11:38,085
+<i>Explorer, vamos ter
+um blecaute de comunicação</i>
+
+230
+00:11:38,086 --> 00:11:39,464
+<i>a qualquer segundo.</i>
+
+231
+00:11:39,465 --> 00:11:41,222
+<i>Entendido, Houston.</i>
+
+232
+00:11:41,223 --> 00:11:44,318
+Explorer, aqui é o Kowalski.
+Posso ver os detritos.
+
+233
+00:11:44,319 --> 00:11:46,473
+É um satélite
+de radiodifusão.
+
+234
+00:11:46,474 --> 00:11:48,531
+- Fique atento!
+- Repito...
+
+235
+00:11:48,532 --> 00:11:50,797
+Dra. Stone solicitando
+agilidade no transporte.
+
+236
+00:11:50,798 --> 00:11:52,631
+Temos que ir!
+
+237
+00:11:52,632 --> 00:11:55,475
+<i>Condições meteorológicas
+são...</i>
+
+238
+00:11:56,332 --> 00:11:57,966
+<i>Houston, Explorer,
+está na escuta?</i>
+
+239
+00:11:57,967 --> 00:12:01,310
+Explorer, dra. Stone solicitando
+agilidade no transporte.
+
+240
+00:12:01,311 --> 00:12:02,689
+Explorer, está ouvindo?
+
+241
+00:12:02,690 --> 00:12:04,697
+Permissão para ajudar
+a dra. Stone.
+
+242
+00:12:04,698 --> 00:12:06,453
+Ajude-a, Kowalski.
+
+243
+00:12:06,454 --> 00:12:09,170
+<i>Houston, aqui é a Explorer.
+Está na escuta?</i>
+
+244
+00:12:09,171 --> 00:12:11,156
+<i>- Certo.
+- Perdemos contato com Houston.</i>
+
+245
+00:12:11,757 --> 00:12:14,655
+<i>- Sem comunicação com a Houston.
+- Solte-se.</i>
+
+246
+00:12:14,656 --> 00:12:16,201
+Precisamos sair daqui.
+
+247
+00:12:16,202 --> 00:12:18,162
+- Precisa de ajuda?
+- Não espere por nós.
+
+248
+00:12:18,163 --> 00:12:19,573
+Está preso.
+
+249
+00:12:19,574 --> 00:12:22,396
+Homem ferido!
+
+250
+00:12:22,397 --> 00:12:25,463
+<i>Houston, aqui é a Explorer.
+Está na escuta?</i>
+
+251
+00:12:25,464 --> 00:12:27,353
+<i>Kowalski, comunique...</i>
+
+252
+00:12:28,559 --> 00:12:30,156
+A Explorer foi atingida!
+
+253
+00:12:30,157 --> 00:12:31,821
+Explorer, está na escuta?
+
+254
+00:12:31,822 --> 00:12:34,689
+Explorer, câmbio!
+
+255
+00:12:36,373 --> 00:12:38,087
+Dra. Stone
+se desprendeu da nave!
+
+256
+00:12:38,088 --> 00:12:41,946
+Dra. Stone,
+você precisa se desconectar!
+
+257
+00:12:41,947 --> 00:12:46,191
+Desconecte-se, ou a estrutura
+levará você para longe.
+
+258
+00:12:46,192 --> 00:12:48,444
+- Escute, precisa se concentrar!
+- Não consigo!
+
+259
+00:12:48,445 --> 00:12:49,782
+Estou perdendo-a de vista.
+
+260
+00:12:49,783 --> 00:12:52,276
+Desconecte-se agora
+ou não conseguirei te encontrar!
+
+261
+00:12:52,277 --> 00:12:53,667
+Precisa se desconectar!
+
+262
+00:12:53,668 --> 00:12:55,696
+Já não estou te vendo.
+Seja rápida!
+
+263
+00:12:55,697 --> 00:12:56,997
+Estou tentando.
+
+264
+00:12:59,731 --> 00:13:01,531
+Houston,
+perdi a dra. Stone de vista.
+
+265
+00:13:02,852 --> 00:13:05,358
+Houston,
+perdi a dra. Stone de vista.
+
+266
+00:13:13,287 --> 00:13:15,600
+Dra. Stone, está na escuta?
+
+267
+00:13:15,601 --> 00:13:17,161
+Repito, está na escuta?
+
+268
+00:13:17,162 --> 00:13:19,080
+Estou ouvindo!
+Eu me desconectei.
+
+269
+00:13:19,081 --> 00:13:20,524
+Qual é sua posição?
+
+270
+00:13:20,525 --> 00:13:23,387
+Não sei.
+Estou girando.
+
+271
+00:13:23,388 --> 00:13:24,688
+Informe sua posição.
+
+272
+00:13:24,689 --> 00:13:28,165
+O GPS parou de funcionar.
+Não consigo...
+
+273
+00:13:28,166 --> 00:13:31,350
+- Diga o que vê.
+- Não consigo ver nada.
+
+274
+00:13:31,351 --> 00:13:33,682
+- Consegue ver a Explorer?
+- Não.
+
+275
+00:13:33,683 --> 00:13:35,361
+- E a EEI?
+- Não.
+
+276
+00:13:35,362 --> 00:13:38,871
+Me dê um ponto de referência.
+Coordenadas.
+
+277
+00:13:38,872 --> 00:13:41,904
+- Não consigo respirar.
+- Preciso de coordenadas.
+
+278
+00:13:41,905 --> 00:13:44,308
+Dra. Stone, está na escuta?
+
+279
+00:13:47,289 --> 00:13:48,874
+Repito, está na escuta?
+
+280
+00:13:49,527 --> 00:13:53,020
+Informe sua posição!
+
+281
+00:13:54,536 --> 00:13:56,804
+Consegue ver a Explorer?
+
+282
+00:13:56,805 --> 00:13:58,589
+Consegue ver a EEI?
+
+283
+00:13:58,590 --> 00:14:00,506
+Concentre-se.
+Me dê qualquer informação.
+
+284
+00:14:00,507 --> 00:14:03,301
+Use o Sol e Terra
+como referência.
+
+285
+00:14:39,008 --> 00:14:41,351
+Kowalski, está na escuta?
+
+286
+00:14:43,003 --> 00:14:44,923
+Kowalski, vejo...
+
+287
+00:14:44,924 --> 00:14:46,992
+Kowalski, estou vendo...
+
+288
+00:14:46,993 --> 00:14:49,331
+Estou vendo a Explorer.
+
+289
+00:14:49,892 --> 00:14:53,370
+Está a minha frente.
+
+290
+00:14:53,833 --> 00:14:57,060
+A nave está
+no centro do mostrador.
+
+291
+00:14:59,096 --> 00:15:01,723
+Consigo ver
+a estação chinesa.
+
+292
+00:15:02,637 --> 00:15:05,099
+Não, é a Estação Espacial
+Internacional.
+
+293
+00:15:05,700 --> 00:15:07,494
+A EEI está...
+
+294
+00:15:08,670 --> 00:15:10,781
+A EEI está à minha esquerda.
+
+295
+00:15:12,515 --> 00:15:14,931
+OXIGÊNIO BAIXO
+10%
+
+296
+00:15:19,033 --> 00:15:21,337
+Tenente Kowalski,
+está na escuta?
+
+297
+00:15:26,994 --> 00:15:29,265
+Explorer, está na escuta?
+
+298
+00:15:37,790 --> 00:15:40,060
+Houston, está na escuta?
+
+299
+00:15:44,514 --> 00:15:47,927
+Houston, aqui é a especialista
+da missão, Ryan Stone.
+
+300
+00:15:47,928 --> 00:15:51,621
+Estou desconectada da nave
+e à deriva. Está na escuta?
+
+301
+00:15:58,173 --> 00:15:59,616
+Alguém?
+
+302
+00:16:03,592 --> 00:16:05,352
+Alguém?
+
+303
+00:16:07,674 --> 00:16:09,657
+Estão me ouvindo?
+
+304
+00:16:13,224 --> 00:16:15,082
+Por favor, respondam.
+
+305
+00:16:17,083 --> 00:16:18,739
+Por favor.
+
+306
+00:16:38,399 --> 00:16:42,143
+- Dra. Stone, está na escuta?
+- Estou, tenente Kowalski.
+
+307
+00:16:42,144 --> 00:16:44,142
+- Estou aqui.
+- Está na escuta?
+
+308
+00:16:44,143 --> 00:16:46,563
+Estou!
+Estou aqui.
+
+309
+00:16:46,564 --> 00:16:48,319
+Acenda a lanterna.
+
+310
+00:16:48,320 --> 00:16:50,412
+- Minha lanterna?
+- Assim poderei ver você.
+
+311
+00:16:50,663 --> 00:16:52,800
+Certo.
+
+312
+00:16:53,279 --> 00:16:54,931
+Eu...
+
+313
+00:16:54,932 --> 00:16:57,415
+Certo, pronto.
+Estou aqui!
+
+314
+00:16:57,416 --> 00:17:00,136
+Aí está você.
+Aguente firme.
+
+315
+00:17:00,470 --> 00:17:02,243
+Informe sua situação.
+
+316
+00:17:02,244 --> 00:17:04,515
+Estou bem.
+
+317
+00:17:04,516 --> 00:17:06,594
+Sua situação.
+Preciso dos seus números.
+
+318
+00:17:06,595 --> 00:17:08,598
+3...
+
+319
+00:17:08,599 --> 00:17:11,058
+3,6 PSI.
+
+320
+00:17:11,059 --> 00:17:13,104
+Me diga seu O2.
+
+321
+00:17:13,105 --> 00:17:16,022
+O oxigênio
+está diminuindo rápido.
+
+322
+00:17:16,023 --> 00:17:19,435
+9...
+Não, 8%.
+
+323
+00:17:19,436 --> 00:17:22,087
+Está respirando muito rápido.
+Consumindo oxigênio.
+
+324
+00:17:22,088 --> 00:17:25,469
+Não queremos isso, certo?
+Queremos relaxar. Entendido?
+
+325
+00:17:25,470 --> 00:17:27,302
+Sim, desculpe.
+Entendido.
+
+326
+00:17:27,303 --> 00:17:29,668
+- Estou quase chegando.
+- Depressa, por favor.
+
+327
+00:17:30,845 --> 00:17:32,855
+Segure a lanterna direito,
+dra. Stone.
+
+328
+00:17:32,856 --> 00:17:35,181
+Desculpe.
+
+329
+00:17:39,601 --> 00:17:41,327
+Peguei você.
+
+330
+00:17:41,328 --> 00:17:44,014
+Vou prender você a mim.
+
+331
+00:17:45,879 --> 00:17:49,389
+Você não tinha percebido
+como sou lindo.
+
+332
+00:17:49,390 --> 00:17:53,535
+Mas pare de olhar para mim
+e me ajude a prender você.
+
+333
+00:17:53,536 --> 00:17:55,742
+- Certo?
+- Certo.
+
+334
+00:17:57,855 --> 00:17:59,198
+Pronto.
+
+335
+00:17:59,800 --> 00:18:01,696
+Vamos lá.
+
+336
+00:18:01,697 --> 00:18:05,130
+Para sair da frente do jetpack,
+vou te dar um empurrão.
+
+337
+00:18:05,131 --> 00:18:07,044
+- Não.
+- Não vai ser forte.
+
+338
+00:18:07,045 --> 00:18:09,547
+- Bem fraquinho.
+- Não! Não!
+
+339
+00:18:09,548 --> 00:18:10,946
+Droga!
+Não!
+
+340
+00:18:18,954 --> 00:18:21,448
+Está vendo?
+Aonde você vai, eu vou.
+
+341
+00:18:26,980 --> 00:18:28,774
+Assim está melhor.
+
+342
+00:18:29,408 --> 00:18:31,170
+Vamos embora daqui.
+
+343
+00:18:33,234 --> 00:18:35,702
+- Droga!
+- Eu sei como é.
+
+344
+00:18:36,327 --> 00:18:37,627
+Droga.
+
+345
+00:18:37,628 --> 00:18:39,770
+Está consumindo oxigênio.
+
+346
+00:18:39,771 --> 00:18:43,706
+Voltaremos para a nave.
+Está bom para você? Entendido?
+
+347
+00:18:43,707 --> 00:18:45,007
+Merda!
+
+348
+00:18:45,008 --> 00:18:46,992
+Certo.
+Entendido.
+
+349
+00:18:46,993 --> 00:18:48,993
+Houston às cegas.
+Aqui é o Kowalski.
+
+350
+00:18:48,994 --> 00:18:51,353
+A dra. Stone e eu voltaremos
+para a base.
+
+351
+00:18:51,354 --> 00:18:54,604
+Pode mandar a Explorer
+preparar a câmara de vácuo?
+
+352
+00:18:55,715 --> 00:18:58,527
+Houston, aqui é o Kowalski.
+Está na escuta?
+
+353
+00:18:59,425 --> 00:19:02,042
+Houston às cegas.
+Aqui é o Kowalski.
+
+354
+00:19:02,043 --> 00:19:04,152
+- Não conseguem nos ouvir.
+- Não sabemos.
+
+355
+00:19:04,153 --> 00:19:05,648
+Por isso insistimos.
+
+356
+00:19:05,649 --> 00:19:09,127
+Se alguém ouvir,
+pode salvar sua vida.
+
+357
+00:19:09,128 --> 00:19:11,474
+Programe seu cronômetro
+para 90 minutos.
+
+358
+00:19:11,994 --> 00:19:13,294
+Por que 90 minutos?
+
+359
+00:19:13,295 --> 00:19:16,740
+A velocidade dos detritos
+é de 80 mil km/h.
+
+360
+00:19:16,741 --> 00:19:20,124
+Considerando nossa órbita atual,
+temos cerca de 90 minutos
+
+361
+00:19:20,125 --> 00:19:22,042
+antes de sermos
+atingidos de novo.
+
+362
+00:19:22,043 --> 00:19:24,345
+O2 diminuiu para 6%.
+
+363
+00:19:24,951 --> 00:19:28,946
+É assustador estar
+preso aqui em cima, não é?
+
+364
+00:19:30,532 --> 00:19:32,570
+Sim, é bem assustador.
+
+365
+00:19:33,284 --> 00:19:35,059
+Você está se saindo bem.
+
+366
+00:19:37,857 --> 00:19:40,128
+Você também
+não está indo nada mal.
+
+367
+00:19:43,752 --> 00:19:46,306
+Houston às cegas.
+Aqui é o Kowalski.
+
+368
+00:19:46,307 --> 00:19:52,307
+Estamos a 900 metros
+da Explorer.
+
+369
+00:19:52,308 --> 00:19:54,215
+A dra. Stone e eu
+gostaríamos de buscar
+
+370
+00:19:54,216 --> 00:19:57,150
+o corpo
+do especialista Shariff.
+
+371
+00:19:57,151 --> 00:19:59,102
+Vamos retornar à nave.
+
+372
+00:19:59,103 --> 00:20:01,021
+Tenho permissão
+para buscá-lo?
+
+373
+00:20:03,500 --> 00:20:05,342
+Entendido.
+
+374
+00:20:05,343 --> 00:20:06,745
+Onde ele está?
+
+375
+00:20:31,034 --> 00:20:32,667
+Meu Deus.
+
+376
+00:20:35,370 --> 00:20:37,068
+Meu Deus.
+
+377
+00:20:41,042 --> 00:20:42,644
+Segure-o!
+
+378
+00:20:45,313 --> 00:20:46,752
+Segure-o!
+
+379
+00:20:46,753 --> 00:20:48,643
+Estou tentando!
+
+380
+00:20:53,199 --> 00:20:55,749
+- Está me puxando.
+- Consegui!
+
+381
+00:20:55,750 --> 00:20:57,461
+Agarre-o como se fosse
+seu namorado.
+
+382
+00:20:57,462 --> 00:20:59,456
+- Certo.
+- Não posso ligar os propulsores
+
+383
+00:20:59,457 --> 00:21:01,477
+se vocês continuarem
+se mexendo.
+
+384
+00:21:31,444 --> 00:21:33,746
+Minha nossa.
+
+385
+00:21:33,747 --> 00:21:36,768
+Espero que tenham uma boa
+apólice de seguro, Houston.
+
+386
+00:21:36,769 --> 00:21:41,081
+Os estragos na Explorer
+são catastróficos.
+
+387
+00:21:41,582 --> 00:21:43,497
+Vamos iniciar a busca
+por sobreviventes.
+
+388
+00:21:43,498 --> 00:21:46,204
+O2 diminuiu para 5%.
+
+389
+00:21:46,205 --> 00:21:48,529
+Vamos lá.
+Cuidado com as beiradas.
+
+390
+00:21:57,677 --> 00:21:59,257
+Aqui.
+
+391
+00:22:50,733 --> 00:22:53,351
+Houston às cegas.
+Confirmando.
+
+392
+00:22:53,352 --> 00:22:57,114
+A especialista dra. Stone
+e o comandante Matthew Kowalski
+
+393
+00:22:57,115 --> 00:23:00,577
+são os únicos sobreviventes
+do STS-157.
+
+394
+00:23:02,992 --> 00:23:07,138
+Desculpe por não parar
+quando você pediu.
+
+395
+00:23:07,139 --> 00:23:09,062
+Seríamos atingidos
+de qualquer jeito.
+
+396
+00:23:09,063 --> 00:23:11,057
+Não havia como impedir.
+
+397
+00:23:16,857 --> 00:23:18,327
+Sim?
+
+398
+00:23:18,328 --> 00:23:20,118
+Certo.
+
+399
+00:23:20,119 --> 00:23:22,612
+Vamos
+para a Estação Especial.
+
+400
+00:23:23,649 --> 00:23:25,221
+Para lá.
+
+401
+00:23:26,586 --> 00:23:27,929
+É uma caminhada e tanto.
+
+402
+00:23:27,930 --> 00:23:32,305
+Precisamos usar a cápsula
+da Soyuz para voltar à Terra.
+
+403
+00:23:32,306 --> 00:23:33,878
+Está de acordo?
+
+404
+00:23:35,052 --> 00:23:36,528
+Dra. Stone.
+
+405
+00:23:37,162 --> 00:23:38,786
+Está de acordo?
+
+406
+00:23:39,420 --> 00:23:41,274
+Estou.
+
+407
+00:23:41,275 --> 00:23:43,832
+Certo.
+Você vai na frente.
+
+408
+00:23:45,611 --> 00:23:47,118
+Meu Deus.
+
+409
+00:23:56,666 --> 00:23:59,376
+Houston às cegas.
+Aqui é o Kowalski.
+
+410
+00:23:59,377 --> 00:24:03,111
+A dra. Stone e eu
+seguiremos até a EEI,
+
+411
+00:24:03,112 --> 00:24:06,863
+e usaremos uma das Soyuz deles
+para a reentrada.
+
+412
+00:24:06,864 --> 00:24:09,200
+EEI,
+se vocês estiverem ouvindo,
+
+413
+00:24:09,898 --> 00:24:12,104
+preparem
+uma operação de resgate.
+
+414
+00:24:26,039 --> 00:24:28,433
+O2 diminuiu para 2%.
+
+415
+00:24:28,434 --> 00:24:29,942
+Estamos quase lá.
+
+416
+00:24:31,338 --> 00:24:33,355
+É lindo, não?
+
+417
+00:24:34,594 --> 00:24:36,033
+O quê?
+
+418
+00:24:36,034 --> 00:24:37,702
+O nascer do sol.
+
+419
+00:24:39,228 --> 00:24:41,660
+É o que mais sinto falta.
+
+420
+00:24:46,450 --> 00:24:49,102
+Onde você mora,
+dra. Stone?
+
+421
+00:24:51,805 --> 00:24:54,107
+Ryan, onde você mora?
+
+422
+00:24:55,909 --> 00:24:58,009
+Onde moro?
+
+423
+00:24:58,010 --> 00:25:01,061
+Lá embaixo.
+Mãe Terra.
+
+424
+00:25:01,758 --> 00:25:03,711
+Onde vive?
+
+425
+00:25:06,762 --> 00:25:08,710
+Lake Zurich.
+
+426
+00:25:08,711 --> 00:25:10,505
+Onde isso fica?
+
+427
+00:25:13,538 --> 00:25:14,851
+Em Illinois.
+
+428
+00:25:14,852 --> 00:25:17,823
+Illinois.
+Fuso horário central.
+
+429
+00:25:18,998 --> 00:25:21,455
+Deve ser...
+
+430
+00:25:21,456 --> 00:25:23,184
+20h.
+
+431
+00:25:23,185 --> 00:25:26,537
+O que os cidadãos de Lake Zurich
+costumam fazer às 20h?
+
+432
+00:25:27,902 --> 00:25:29,725
+Não sei.
+
+433
+00:25:29,726 --> 00:25:32,377
+Não vou conseguir.
+Estou atrasando você.
+
+434
+00:25:32,378 --> 00:25:34,332
+O que você estaria fazendo?
+
+435
+00:25:36,875 --> 00:25:38,918
+Qual é, Ryan.
+
+436
+00:25:38,919 --> 00:25:40,965
+São 20h.
+
+437
+00:25:40,966 --> 00:25:44,988
+Acabou de sair do hospital
+depois de um turno de 18 horas.
+
+438
+00:25:44,989 --> 00:25:46,651
+Está indo para casa.
+
+439
+00:25:49,958 --> 00:25:51,625
+O rádio.
+
+440
+00:25:53,183 --> 00:25:55,102
+Escuto rádio.
+
+441
+00:25:55,769 --> 00:25:58,038
+Isso aí.
+Vou tentar adivinhar.
+
+442
+00:25:58,039 --> 00:25:59,670
+NPR?
+
+443
+00:25:59,671 --> 00:26:01,238
+Música clássica?
+
+444
+00:26:01,239 --> 00:26:02,809
+As 40 Melhores?
+
+445
+00:26:05,830 --> 00:26:09,787
+Qualquer uma, não ligo.
+Eu só dirijo.
+
+446
+00:26:12,193 --> 00:26:14,360
+E para onde está indo?
+
+447
+00:26:16,617 --> 00:26:19,043
+Para qualquer lugar.
+
+448
+00:26:19,044 --> 00:26:21,124
+Do que sente falta
+lá embaixo?
+
+449
+00:26:22,521 --> 00:26:24,476
+Tem um sr. Stone?
+
+450
+00:26:25,776 --> 00:26:27,461
+Não.
+
+451
+00:26:27,462 --> 00:26:29,213
+Alguém especial?
+
+452
+00:26:31,980 --> 00:26:34,341
+Alguém lá embaixo
+olhando para cima
+
+453
+00:26:34,342 --> 00:26:36,009
+pensando em você?
+
+454
+00:26:38,297 --> 00:26:39,836
+Ryan?
+
+455
+00:26:46,611 --> 00:26:48,436
+Eu tinha uma filha.
+
+456
+00:26:59,061 --> 00:27:01,013
+Ela tinha quatro anos.
+
+457
+00:27:03,206 --> 00:27:05,345
+Ela estava na escola
+brincando,
+
+458
+00:27:05,346 --> 00:27:08,069
+escorregou e bateu a cabeça.
+
+459
+00:27:10,453 --> 00:27:12,534
+Foi por uma besteira.
+
+460
+00:27:18,451 --> 00:27:21,262
+Eu estava dirigindo
+quando recebi a ligação.
+
+461
+00:27:22,279 --> 00:27:24,741
+Desde então, é o que faço.
+
+462
+00:27:25,916 --> 00:27:27,484
+Eu acordo,
+
+463
+00:27:28,406 --> 00:27:32,340
+vou trabalhar e dirijo.
+
+464
+00:27:59,197 --> 00:28:01,499
+O2 diminuiu para 1%.
+
+465
+00:28:13,653 --> 00:28:15,826
+Tenho duas notícias.
+Uma boa e outra ruim.
+
+466
+00:28:15,827 --> 00:28:18,667
+A boa é que estamos
+a cinco minutos da EEI,
+
+467
+00:28:18,668 --> 00:28:21,063
+e sei onde os russos
+guardam a vodca.
+
+468
+00:28:21,064 --> 00:28:24,666
+Isso é bom, pois o combustível
+está acabando.
+
+469
+00:28:24,667 --> 00:28:29,116
+A ruim é que não vou bater
+o recorde de Anatoly por 10 min.
+
+470
+00:28:30,486 --> 00:28:32,108
+O que foi?
+
+471
+00:28:32,109 --> 00:28:35,326
+Estou sem oxigênio
+no tanque.
+
+472
+00:28:35,327 --> 00:28:38,358
+Acabou no tanque,
+mas ainda tem no seu traje.
+
+473
+00:28:38,359 --> 00:28:40,704
+- Entendi.
+- Respire pausadamente.
+
+474
+00:28:41,644 --> 00:28:43,888
+Como se tivesse bebendo vinho,
+não uma cerveja.
+
+475
+00:28:43,889 --> 00:28:46,177
+Bem devagar, Ryan.
+
+476
+00:28:46,178 --> 00:28:49,147
+Houston às cegas.
+Estou vendo a EEI.
+
+477
+00:28:49,148 --> 00:28:53,229
+Acho que a estação foi evacuada.
+A primeira Soyuz não está lá.
+
+478
+00:28:53,230 --> 00:28:55,690
+A segunda está
+com a superfície danificada
+
+479
+00:28:55,691 --> 00:28:57,438
+e o paraquedas foi acionado.
+
+480
+00:28:57,439 --> 00:29:01,818
+Não pode ser usado
+para a reentrada.
+
+481
+00:29:01,819 --> 00:29:04,076
+Não deveríamos virar?
+Estamos à deriva de novo.
+
+482
+00:29:04,077 --> 00:29:06,967
+Ainda não. Quando falei
+do combustível, era sério.
+
+483
+00:29:06,968 --> 00:29:09,485
+Só temos um ou dois impulsos
+restantes.
+
+484
+00:29:09,486 --> 00:29:11,093
+Se tivermos sorte.
+
+485
+00:29:23,658 --> 00:29:25,292
+Não se mexa.
+
+486
+00:29:34,425 --> 00:29:36,500
+Apontar.
+
+487
+00:29:36,501 --> 00:29:37,944
+Fogo!
+
+488
+00:29:43,765 --> 00:29:45,778
+Pare!
+Tem que parar!
+
+489
+00:29:45,779 --> 00:29:47,656
+Não posso.
+Acabou o combustível.
+
+490
+00:29:47,657 --> 00:29:50,247
+Bateremos forte.
+Agarre no que conseguir.
+
+491
+00:30:01,892 --> 00:30:03,380
+O que eu faço?
+
+492
+00:30:04,160 --> 00:30:05,858
+O que eu faço?
+
+493
+00:30:15,083 --> 00:30:16,558
+Ryan.
+
+494
+00:30:20,788 --> 00:30:24,453
+O cabo rompeu.
+Estou solta!
+
+495
+00:30:24,654 --> 00:30:26,161
+Agarre em alguma coisa!
+
+496
+00:30:28,604 --> 00:30:30,134
+Agarre!
+
+497
+00:30:45,950 --> 00:30:47,394
+Ryan!
+
+498
+00:30:49,269 --> 00:30:51,669
+- Me dê a mão.
+- Vou te segurar.
+
+499
+00:30:51,670 --> 00:30:54,155
+Vou segurar você.
+Aqui.
+
+500
+00:30:57,203 --> 00:30:58,578
+Merda.
+
+501
+00:30:58,579 --> 00:31:01,296
+Não! Não! Não!
+
+502
+00:31:02,423 --> 00:31:03,932
+Consegui.
+
+503
+00:31:12,582 --> 00:31:14,184
+Consegui.
+
+504
+00:31:16,730 --> 00:31:19,984
+Segure-se.
+Vou puxar você.
+
+505
+00:31:19,985 --> 00:31:22,188
+- Doutora.
+- Segure firme.
+
+506
+00:31:22,189 --> 00:31:25,094
+- Vou puxar você.
+- Escute.
+
+507
+00:31:25,095 --> 00:31:26,395
+Você tem que me soltar.
+
+508
+00:31:26,396 --> 00:31:27,925
+- Não!
+- As cordas estão fracas.
+
+509
+00:31:27,926 --> 00:31:29,691
+Vou lhe arrastar para longe.
+
+510
+00:31:29,692 --> 00:31:31,794
+Tem que me soltar
+ou morreremos.
+
+511
+00:31:31,795 --> 00:31:34,029
+Não vou soltar!
+Vamos conseguir.
+
+512
+00:31:34,030 --> 00:31:35,473
+Não.
+
+513
+00:31:40,500 --> 00:31:42,294
+Ryan, solte-me.
+
+514
+00:31:42,295 --> 00:31:43,731
+Não.
+
+515
+00:31:43,732 --> 00:31:46,468
+Você não vai
+para lugar nenhum.
+
+516
+00:31:46,469 --> 00:31:48,410
+Não depende de você.
+
+517
+00:31:48,411 --> 00:31:51,252
+Não.
+Por favor, não faça isso.
+
+518
+00:31:51,253 --> 00:31:54,560
+Por favor, não faça isso.
+
+519
+00:31:55,767 --> 00:31:58,196
+Por favor, Matt.
+Não faça isso.
+
+520
+00:32:00,899 --> 00:32:02,757
+Você vai conseguir, Ryan.
+
+521
+00:32:03,920 --> 00:32:05,610
+Não!
+
+522
+00:32:26,562 --> 00:32:30,298
+Eu tinha te segurado.
+
+523
+00:32:45,571 --> 00:32:47,428
+Ryan, está me ouvindo?
+
+524
+00:32:50,064 --> 00:32:51,921
+Está na escuta?
+
+525
+00:32:51,922 --> 00:32:55,501
+Meu alarme do CO2 disparou.
+
+526
+00:32:55,502 --> 00:32:58,047
+Você tem que entrar
+na estação.
+
+527
+00:32:58,048 --> 00:32:59,969
+Você está vendo
+a câmara de vácuo?
+
+528
+00:33:09,170 --> 00:33:10,708
+Ryan.
+
+529
+00:33:11,370 --> 00:33:12,770
+Está na escuta?
+
+530
+00:33:14,644 --> 00:33:16,344
+Procure a câmara de vácuo.
+
+531
+00:33:19,008 --> 00:33:21,661
+Está acima de você.
+Junto ao módulo Zarya.
+
+532
+00:33:25,160 --> 00:33:26,570
+Está vendo?
+
+533
+00:33:26,571 --> 00:33:30,390
+Sim, estou vendo.
+
+534
+00:33:30,391 --> 00:33:32,976
+Ótimo.
+É para onde deve ir.
+
+535
+00:33:33,439 --> 00:33:35,649
+Está ficando zonza, não é?
+
+536
+00:33:36,755 --> 00:33:38,303
+Estou.
+
+537
+00:33:38,304 --> 00:33:40,322
+É porque está respirando CO2.
+
+538
+00:33:40,323 --> 00:33:42,286
+Você está perdendo
+a consciência.
+
+539
+00:33:42,287 --> 00:33:43,905
+Precisa entrar na estação.
+
+540
+00:33:43,906 --> 00:33:45,701
+Certo.
+
+541
+00:33:45,952 --> 00:33:48,465
+A segunda Soyuz está
+muito danificada para reentrar,
+
+542
+00:33:48,466 --> 00:33:51,758
+mas está boa
+para um passeio de domingo.
+
+543
+00:33:51,759 --> 00:33:53,850
+Passeio de domingo?
+
+544
+00:33:53,920 --> 00:33:55,529
+Olhe para oeste.
+
+545
+00:33:56,768 --> 00:33:58,842
+Você está vendo
+aquele ponto?
+
+546
+00:33:58,843 --> 00:34:01,618
+- É a estação chinesa.
+- Estou.
+
+547
+00:34:01,619 --> 00:34:04,464
+Pegue a Soyuz e vá até lá.
+
+548
+00:34:05,735 --> 00:34:08,484
+O barco salva-vidas chinês
+se chama Shenzhou.
+
+549
+00:34:09,121 --> 00:34:10,799
+Nunca pilotei uma Shenzhou.
+
+550
+00:34:10,800 --> 00:34:12,126
+Não importa.
+
+551
+00:34:12,127 --> 00:34:15,289
+O protocolo para a reentrada
+é o mesmo da Soyuz.
+
+552
+00:34:16,305 --> 00:34:17,875
+Certo.
+
+553
+00:34:19,468 --> 00:34:22,051
+Nunca pilotou uma Soyuz?
+
+554
+00:34:22,052 --> 00:34:24,224
+Só em um simulador.
+
+555
+00:34:24,225 --> 00:34:26,082
+Então você sabe.
+
+556
+00:34:28,279 --> 00:34:29,846
+Mas eu bati.
+
+557
+00:34:29,847 --> 00:34:32,693
+Um simulador
+é projetado para isso.
+
+558
+00:34:35,553 --> 00:34:37,120
+Todas as vezes.
+
+559
+00:34:37,121 --> 00:34:38,984
+Falhei
+em todas as tentativas.
+
+560
+00:34:39,085 --> 00:34:42,460
+É só apontar para a Terra.
+Não é tão difícil.
+
+561
+00:34:43,444 --> 00:34:45,774
+Nessa hora amanhã,
+estará em Lake Zurich
+
+562
+00:34:45,775 --> 00:34:47,665
+com uma baita história
+para contar.
+
+563
+00:34:48,394 --> 00:34:49,966
+Está na escuta?
+
+564
+00:34:51,363 --> 00:34:53,334
+Ryan, está na escuta?
+
+565
+00:34:53,335 --> 00:34:55,382
+Vou pegar a Soyuz
+e buscar você.
+
+566
+00:34:55,383 --> 00:34:57,433
+- Você não vai.
+- Vou buscar você.
+
+567
+00:34:57,434 --> 00:34:59,868
+- Estou muito longe.
+- Vou buscar você.
+
+568
+00:34:59,869 --> 00:35:02,110
+Isso não é mais possível.
+
+569
+00:35:03,158 --> 00:35:05,684
+Ryan,
+você tem que esquecer isso.
+
+570
+00:35:06,638 --> 00:35:09,131
+Diga para mim
+que vai conseguir.
+
+571
+00:35:11,324 --> 00:35:13,404
+Vamos, Ryan.
+Diga.
+
+572
+00:35:15,026 --> 00:35:16,529
+Eu vou conseguir.
+
+573
+00:35:16,530 --> 00:35:18,960
+Certo.
+Prossiga.
+
+574
+00:35:19,689 --> 00:35:22,958
+Ryan é um nome estranho
+para uma mulher.
+
+575
+00:35:24,356 --> 00:35:26,369
+Meu pai queria um garoto.
+
+576
+00:35:26,370 --> 00:35:28,284
+Você está perto
+da câmara de vácuo?
+
+577
+00:35:29,392 --> 00:35:30,885
+Ainda não.
+
+578
+00:35:30,886 --> 00:35:32,581
+Prossiga.
+
+579
+00:35:32,582 --> 00:35:35,455
+Agora que estamos distantes
+um do outro,
+
+580
+00:35:35,456 --> 00:35:38,714
+- estava a fim de mim, não é?
+- O quê?
+
+581
+00:35:39,571 --> 00:35:42,318
+As pessoas dizem
+que tenho lindos olhos azuis.
+
+582
+00:35:46,327 --> 00:35:48,315
+Você tem lindos...
+
+583
+00:35:48,316 --> 00:35:50,392
+Você tem lindos olhos azuis.
+
+584
+00:35:50,393 --> 00:35:51,964
+Tenho olhos castanhos.
+
+585
+00:35:55,177 --> 00:35:58,272
+- Quer ouvir uma notícia boa?
+- Que notícia?
+
+586
+00:35:58,273 --> 00:36:00,471
+Vou bater
+o recorde de Anatoly,
+
+587
+00:36:00,472 --> 00:36:02,914
+e vou manter o meu
+por muito tempo.
+
+588
+00:36:02,915 --> 00:36:05,710
+Não.
+Vou buscar você.
+
+589
+00:36:08,445 --> 00:36:11,763
+- Meu Deus.
+- O quê?
+
+590
+00:36:11,764 --> 00:36:13,366
+Caramba.
+
+591
+00:36:14,573 --> 00:36:16,205
+Ryan.
+
+592
+00:36:16,206 --> 00:36:17,550
+Sim?
+
+593
+00:36:17,551 --> 00:36:20,268
+Você tem que ver
+o pôr-do-sol no Ganges.
+
+594
+00:36:22,525 --> 00:36:24,095
+É incrível.
+
+595
+00:40:50,248 --> 00:40:52,040
+Onde você está?
+
+596
+00:40:52,041 --> 00:40:55,127
+Painel de comunicação.
+Aqui está.
+
+597
+00:41:05,848 --> 00:41:07,961
+Matt, aqui é a Ryan.
+Responda.
+
+598
+00:41:10,632 --> 00:41:13,384
+Matt, aqui é a Ryan.
+Responda.
+
+599
+00:41:16,329 --> 00:41:18,575
+Matt, consegui.
+Estou na estação.
+
+600
+00:41:18,576 --> 00:41:20,403
+Está na escuta?
+
+601
+00:41:26,066 --> 00:41:28,365
+Vamos, Matt.
+Fale comigo.
+
+602
+00:41:28,366 --> 00:41:30,954
+Diga onde está.
+Me dê sua posição.
+
+603
+00:41:32,003 --> 00:41:35,580
+Onde você está?
+Diga o que está vendo.
+
+604
+00:41:40,532 --> 00:41:43,363
+Não parou de falar desde
+que saímos de Cabo Canaveral.
+
+605
+00:41:43,364 --> 00:41:44,709
+Agora vai ficar quieto?
+
+606
+00:41:44,710 --> 00:41:48,889
+Fale comigo.
+Qualquer coisa, eu não ligo!
+
+607
+00:41:57,323 --> 00:42:00,788
+Conte mais do carnaval.
+Conte sobre o cara cabeludo.
+
+608
+00:42:00,789 --> 00:42:03,089
+Diga o que aconteceu.
+
+609
+00:42:03,090 --> 00:42:05,360
+O que aconteceu
+com o cara cabeludo?
+
+610
+00:42:11,658 --> 00:42:13,421
+Por favor, fale comigo.
+
+611
+00:42:17,967 --> 00:42:19,633
+Por favor.
+
+612
+00:42:34,939 --> 00:42:36,701
+Houston às cegas.
+
+613
+00:42:38,988 --> 00:42:43,074
+Aqui é a especialista da missão,
+dra. Stone, falando da EEI.
+
+614
+00:42:44,789 --> 00:42:49,271
+Perdi a comunicação
+com o Tenente Matthew Kowalski.
+
+615
+00:42:52,631 --> 00:42:55,092
+Transmissão via rádio,
+inativa.
+
+616
+00:42:56,864 --> 00:42:58,943
+Contato visual inexistente.
+
+617
+00:43:01,262 --> 00:43:02,768
+Confirmando.
+
+618
+00:43:03,434 --> 00:43:06,775
+Eu, Ryan Stone,
+sou a única sobrevivente
+
+619
+00:43:06,776 --> 00:43:09,555
+do STS-157.
+
+620
+00:43:22,841 --> 00:43:24,379
+O que é isso?
+
+621
+00:43:33,191 --> 00:43:36,066
+INCÊNDIO
+
+622
+00:45:04,614 --> 00:45:06,966
+Onde está?
+
+623
+00:45:06,967 --> 00:45:09,078
+Onde é o botão de ligar?
+
+624
+00:45:11,940 --> 00:45:14,084
+Certo, é só fazer
+igual ao treinamento.
+
+625
+00:45:14,876 --> 00:45:16,983
+Desacoplando,
+desacoplando.
+
+626
+00:45:16,984 --> 00:45:19,178
+Desacoplando.
+
+627
+00:45:19,179 --> 00:45:20,876
+É o vermelho.
+
+628
+00:45:25,536 --> 00:45:27,010
+Certo.
+
+629
+00:45:28,952 --> 00:45:32,625
+Certo.
+Onde está?
+
+630
+00:45:32,626 --> 00:45:34,356
+Vamos lá.
+
+631
+00:45:34,855 --> 00:45:36,255
+Certo.
+
+632
+00:45:39,351 --> 00:45:42,163
+Eu lembro como é.
+Eu lembro.
+
+633
+00:45:56,382 --> 00:45:59,098
+Você não tem quatro minutos.
+Vai ser manualmente.
+
+634
+00:46:00,527 --> 00:46:02,227
+Vamos.
+
+635
+00:46:02,228 --> 00:46:03,603
+Certo.
+
+636
+00:46:04,040 --> 00:46:07,753
+Certo.
+Ativar desacoplamento.
+
+637
+00:46:35,221 --> 00:46:37,556
+Sete minutos
+para sair daqui.
+
+638
+00:46:44,275 --> 00:46:46,001
+Certo.
+
+639
+00:47:01,856 --> 00:47:03,617
+O que houve?
+
+640
+00:47:12,969 --> 00:47:15,143
+Não! Não! Não!
+
+641
+00:47:44,490 --> 00:47:46,397
+Pare! Pare! Pare!
+
+642
+00:48:02,813 --> 00:48:05,016
+Vamos.
+
+643
+00:48:05,017 --> 00:48:07,605
+Assim mesmo.
+Certo.
+
+644
+00:48:10,562 --> 00:48:12,006
+Vamos.
+
+645
+00:48:47,448 --> 00:48:48,986
+Ótimo.
+
+646
+00:49:34,681 --> 00:49:37,939
+Céu claro com possíveis
+detritos do satélite.
+
+647
+00:50:51,403 --> 00:50:53,704
+Desprendo isso
+e vou para casa.
+
+648
+00:50:53,705 --> 00:50:55,434
+É moleza.
+
+649
+00:51:21,575 --> 00:51:22,941
+Certo.
+
+650
+00:51:26,751 --> 00:51:28,498
+Certo, o que houve aqui?
+
+651
+00:51:29,051 --> 00:51:30,781
+Tudo bem.
+
+652
+00:51:41,229 --> 00:51:43,223
+Merda.
+
+653
+00:51:50,004 --> 00:51:51,843
+Tudo bem.
+
+654
+00:51:51,844 --> 00:51:53,773
+Vamos lá.
+
+655
+00:51:53,774 --> 00:51:55,124
+Está tudo bem.
+
+656
+00:53:26,056 --> 00:53:27,913
+Odeio o espaço.
+
+657
+00:53:47,702 --> 00:53:49,398
+Fique quieto.
+
+658
+00:53:53,531 --> 00:53:55,007
+Certo.
+
+659
+00:54:02,690 --> 00:54:04,214
+Certo.
+
+660
+00:54:08,293 --> 00:54:10,009
+Ótimo.
+
+661
+00:54:11,371 --> 00:54:12,972
+Certo.
+
+662
+00:54:14,156 --> 00:54:16,141
+Vou estabilizar você.
+
+663
+00:54:31,204 --> 00:54:32,775
+Certo.
+
+664
+00:54:33,863 --> 00:54:36,323
+Vamos visitar
+a estação chinesa.
+
+665
+00:54:37,834 --> 00:54:39,402
+Houston às cegas.
+
+666
+00:54:39,403 --> 00:54:45,403
+Tiangong
+está a 100 km a oeste
+
+667
+00:54:45,404 --> 00:54:50,874
+e eu estou fora da rota
+por 13 graus.
+
+668
+00:54:50,875 --> 00:54:53,018
+Vou corrigir a trajetória.
+
+669
+00:55:14,899 --> 00:55:17,967
+Certo.
+
+670
+00:55:18,893 --> 00:55:20,427
+Certo.
+
+671
+00:55:21,880 --> 00:55:23,619
+Vou ativar o SK-D
+
+672
+00:55:23,620 --> 00:55:28,296
+em cinco, quatro,
+três, dois, um.
+
+673
+00:55:42,806 --> 00:55:45,140
+O que está acontecendo?
+Vamos.
+
+674
+00:55:47,960 --> 00:55:49,466
+Um.
+
+675
+00:56:03,024 --> 00:56:05,031
+Vamos lá.
+
+676
+00:56:09,548 --> 00:56:11,156
+Só pode estar brincando!
+
+677
+00:56:11,656 --> 00:56:14,023
+Só pode estar brincando!
+
+678
+00:56:18,108 --> 00:56:20,080
+Não!
+Mas que merda...
+
+679
+00:56:30,087 --> 00:56:32,031
+Houston às cegas.
+
+680
+00:56:32,032 --> 00:56:34,995
+Houston às cegas.
+Aqui é a dra. Ryan Stone.
+
+681
+00:56:34,996 --> 00:56:39,427
+Estou falando
+da Soyuz TMA-14M.
+
+682
+00:56:39,428 --> 00:56:42,832
+Estou sem combustível
+e à deriva, está na escuta?
+
+683
+00:56:45,534 --> 00:56:49,039
+Houston.
+Aqui é a dra. Ryan Stone.
+
+684
+00:56:49,896 --> 00:56:51,257
+Está na escuta?
+
+685
+00:56:55,471 --> 00:56:58,855
+Houston.
+Aqui é a Ryan Stone.
+
+686
+00:56:59,458 --> 00:57:00,826
+Está na escuta?
+
+687
+00:57:03,660 --> 00:57:06,742
+Aqui é a especialista da missão,
+Ryan Stone.
+
+688
+00:57:06,743 --> 00:57:08,472
+Está na escuta?
+
+689
+00:57:09,773 --> 00:57:13,122
+Houston?
+Por favor, identifique-se.
+
+690
+00:57:13,123 --> 00:57:15,892
+Estou recebendo essa transmissão
+pela frequência AM.
+
+691
+00:57:15,893 --> 00:57:17,300
+Está na escuta?
+
+692
+00:57:18,084 --> 00:57:19,970
+Está na escuta?
+
+693
+00:57:19,971 --> 00:57:21,887
+É a estação chinesa?
+
+694
+00:57:21,888 --> 00:57:23,819
+É a estação Tiangong?
+Câmbio.
+
+695
+00:57:24,995 --> 00:57:26,687
+Mayday.
+Está na escuta?
+
+696
+00:57:26,688 --> 00:57:29,818
+Mayday.
+
+697
+00:57:30,611 --> 00:57:33,531
+Isso.
+Mayday.
+
+698
+00:57:33,532 --> 00:57:35,739
+Mayday.
+
+699
+00:57:41,490 --> 00:57:44,460
+Aningaaq?
+É esse o seu nome?
+
+700
+00:57:44,461 --> 00:57:47,431
+Esse é seu nome?
+
+701
+00:57:50,357 --> 00:57:52,593
+Não.
+Meu nome não é Mayday.
+
+702
+00:57:52,594 --> 00:57:56,445
+Sou a dra. Ryan Stone.
+Preciso de ajuda.
+
+703
+00:58:00,877 --> 00:58:02,513
+São cachorros.
+
+704
+00:58:03,528 --> 00:58:05,225
+Estão falando da Terra.
+
+705
+00:58:08,343 --> 00:58:10,093
+Estão falando da Terra.
+
+706
+00:58:23,248 --> 00:58:24,851
+Aningaaq.
+
+707
+00:58:25,580 --> 00:58:28,678
+Faça os cachorros latirem
+de novo para mim.
+
+708
+00:58:30,201 --> 00:58:33,354
+Os cachorros.
+Consegue entender?
+
+709
+00:58:34,290 --> 00:58:35,829
+Cachorros.
+
+710
+00:59:19,040 --> 00:59:21,565
+Vou morrer, Aningaaq.
+
+711
+00:59:23,950 --> 00:59:27,774
+Todos nós morreremos.
+Todos sabem disso.
+
+712
+00:59:27,775 --> 00:59:30,078
+Mas eu vou morrer hoje.
+
+713
+00:59:32,685 --> 00:59:36,039
+É engraçado saber isso.
+
+714
+00:59:39,218 --> 00:59:42,566
+Mas ainda estou com medo.
+
+715
+00:59:42,567 --> 00:59:44,361
+Estou com muito medo.
+
+716
+00:59:47,157 --> 00:59:50,924
+Ninguém vai chorar
+ou rezar pela minha alma.
+
+717
+00:59:54,093 --> 00:59:55,759
+Vai chorar por mim?
+
+718
+00:59:57,252 --> 00:59:59,331
+Vai fazer uma oração
+por mim?
+
+719
+00:59:59,964 --> 01:00:01,661
+Ou é tarde demais?
+
+720
+01:00:06,118 --> 01:00:09,724
+Eu faria uma por mim mesma,
+mas não sei nenhuma oração.
+
+721
+01:00:11,376 --> 01:00:13,329
+Nunca me ensinaram.
+
+722
+01:00:17,525 --> 01:00:19,572
+Nunca me ensinaram.
+
+723
+01:00:30,906 --> 01:00:32,477
+Um bebê.
+
+724
+01:00:45,136 --> 01:00:47,080
+Tem um bebê com você?
+
+725
+01:00:49,846 --> 01:00:52,201
+Você está cantando
+uma canção de ninar?
+
+726
+01:00:55,158 --> 01:00:56,920
+É linda.
+
+727
+01:00:58,987 --> 01:01:01,353
+Eu cantava
+para minha filha.
+
+728
+01:01:05,008 --> 01:01:07,247
+Espero vê-la em breve.
+
+729
+01:02:17,304 --> 01:02:20,627
+Está ótimo, Aningaaq.
+Continue cantando.
+
+730
+01:02:22,247 --> 01:02:25,079
+Continue,
+assim pegarei no sono.
+
+731
+01:02:26,888 --> 01:02:30,445
+Continue cantando.
+Cante, cante.
+
+732
+01:03:00,842 --> 01:03:02,477
+Não! Não!
+
+733
+01:03:45,436 --> 01:03:48,148
+Olhe seu relógio.
+13 horas e 11 minutos.
+
+734
+01:03:48,149 --> 01:03:51,248
+Diga a Anatoly
+que o recorde dele foi quebrado.
+
+735
+01:03:51,249 --> 01:03:53,517
+- O clima está meio triste aqui.
+- Como você...
+
+736
+01:03:53,518 --> 01:03:55,278
+Acredite,
+é uma baita história.
+
+737
+01:03:55,279 --> 01:03:57,094
+Onde você esteve?
+
+738
+01:03:59,049 --> 01:04:00,423
+Assim está melhor.
+
+739
+01:04:01,040 --> 01:04:04,709
+Tinha um pouco de carga
+na bateria.
+
+740
+01:04:04,710 --> 01:04:07,327
+E você não estava lá
+para me distrair.
+
+741
+01:04:07,328 --> 01:04:10,236
+Tenho que confessar.
+Estou feliz em ver você.
+
+742
+01:04:10,237 --> 01:04:12,155
+Não pensei
+que fosse conseguir.
+
+743
+01:04:12,156 --> 01:04:13,695
+Quer um pouco de vodca?
+
+744
+01:04:15,219 --> 01:04:18,280
+- Não me disse onde estava.
+- Bem...
+
+745
+01:04:23,855 --> 01:04:25,458
+Ao Anatoly.
+
+746
+01:04:26,251 --> 01:04:27,886
+Saúde.
+
+747
+01:04:32,193 --> 01:04:34,174
+- Não quer?
+- Não.
+
+748
+01:04:34,175 --> 01:04:37,369
+Certo.
+Vamos sair daqui.
+
+749
+01:04:39,147 --> 01:04:43,800
+A estação chinesa fica a 160 km.
+É um pequeno passeio de domingo.
+
+750
+01:04:43,801 --> 01:04:45,687
+- Não vamos conseguir.
+- Vamos sim.
+
+751
+01:04:45,688 --> 01:04:47,448
+Acabou o combustível.
+Já tentei tudo.
+
+752
+01:04:47,449 --> 01:04:49,495
+Sempre há uma saída.
+
+753
+01:04:49,496 --> 01:04:51,000
+Já tentei tudo.
+
+754
+01:04:51,001 --> 01:04:52,940
+Tentou
+os propulsores de pouso?
+
+755
+01:04:52,941 --> 01:04:54,350
+São para pouso.
+
+756
+01:04:54,351 --> 01:04:57,618
+Pousar é lançar.
+Não aprendeu no treinamento?
+
+757
+01:04:57,619 --> 01:04:59,695
+Não consegui pousar o simulador.
+Já falei.
+
+758
+01:04:59,696 --> 01:05:02,283
+- Mas você sabe como é.
+- Falhei todas as vezes.
+
+759
+01:05:02,284 --> 01:05:04,557
+Quer voltar ou ficar aqui?
+
+760
+01:05:07,736 --> 01:05:09,878
+Eu sei,
+é bacana aqui em cima.
+
+761
+01:05:12,898 --> 01:05:17,079
+Você pode desligar
+todos os sistemas.
+
+762
+01:05:17,840 --> 01:05:19,666
+Desligar todas as luzes.
+
+763
+01:05:20,712 --> 01:05:23,334
+Fechar os olhos
+e esquecer de tudo.
+
+764
+01:05:23,968 --> 01:05:25,982
+Ninguém pode machucar
+você aqui.
+
+765
+01:05:26,670 --> 01:05:28,145
+É seguro.
+
+766
+01:05:31,515 --> 01:05:34,200
+Por que seguir em frente?
+Por que viver?
+
+767
+01:05:38,843 --> 01:05:42,767
+Sua filha morreu.
+Não há nada pior que isso.
+
+768
+01:05:45,312 --> 01:05:47,615
+Mas a questão
+é o que vai fazer agora.
+
+769
+01:05:49,202 --> 01:05:53,338
+Se decidir voltar para a Terra,
+vá em frente.
+
+770
+01:05:53,339 --> 01:05:55,767
+Relaxe e aproveite a viagem.
+
+771
+01:05:56,402 --> 01:06:00,006
+Coloque os pés no chão
+e comece a viver.
+
+772
+01:06:00,007 --> 01:06:01,670
+Como você chegou aqui?
+
+773
+01:06:01,671 --> 01:06:04,319
+Estou falando,
+é uma baita história.
+
+774
+01:06:04,320 --> 01:06:07,477
+- Ryan.
+- O quê?
+
+775
+01:06:07,478 --> 01:06:09,240
+É hora de ir para casa.
+
+776
+01:06:53,021 --> 01:06:54,881
+Pousar...
+
+777
+01:06:56,598 --> 01:07:00,109
+Pousar é lançar.
+
+778
+01:07:01,093 --> 01:07:02,791
+Eu disse...
+
+779
+01:07:16,332 --> 01:07:18,151
+Pousar...
+
+780
+01:07:18,152 --> 01:07:20,107
+Pousar é o verde.
+
+781
+01:07:30,413 --> 01:07:31,763
+Certo.
+
+782
+01:07:33,539 --> 01:07:36,772
+Pousar.
+Certo.
+
+783
+01:07:37,677 --> 01:07:39,975
+Esses propulsores
+foram planejados
+
+784
+01:07:39,976 --> 01:07:42,843
+para serem ativados
+três metros antes do pouso.
+
+785
+01:07:45,500 --> 01:07:47,671
+Você é um cara inteligente,
+Matt.
+
+786
+01:07:47,672 --> 01:07:52,295
+Preciso me livrar
+do módulo orbital.
+
+787
+01:07:52,296 --> 01:07:54,059
+Módulo do motor.
+
+788
+01:07:55,260 --> 01:07:57,556
+Tudo bem.
+
+789
+01:07:57,557 --> 01:07:59,033
+Certo.
+
+790
+01:08:00,358 --> 01:08:01,919
+Certo.
+
+791
+01:08:04,336 --> 01:08:06,656
+Separação dos três módulos.
+
+792
+01:08:07,449 --> 01:08:08,891
+Acionar.
+
+793
+01:08:23,237 --> 01:08:24,579
+Tudo bem.
+
+794
+01:08:25,224 --> 01:08:27,968
+Houston,
+essa é parte difícil.
+
+795
+01:08:27,969 --> 01:08:30,227
+A Soyuz tem que pensar
+
+796
+01:08:30,228 --> 01:08:33,875
+que estamos
+a três metros da Terra.
+
+797
+01:08:34,827 --> 01:08:37,715
+Tudo bem.
+Certo.
+
+798
+01:08:37,716 --> 01:08:39,542
+Matt?
+
+799
+01:08:39,543 --> 01:08:43,626
+Já que me fez ouvir um monte
+de suas histórias essa semana,
+
+800
+01:08:43,627 --> 01:08:45,738
+preciso
+que me faça um favor.
+
+801
+01:08:46,721 --> 01:08:49,999
+Você verá uma garota
+com cabelo castanho,
+
+802
+01:08:50,000 --> 01:08:52,808
+bem bagunçado,
+com muitos nós.
+
+803
+01:08:52,809 --> 01:08:55,141
+Ela não gosta de pentear.
+
+804
+01:08:55,142 --> 01:08:57,121
+Mas tudo bem.
+
+805
+01:08:57,122 --> 01:08:58,947
+Ela se chama Sarah.
+
+806
+01:08:59,677 --> 01:09:01,698
+Pode dizer para ela
+
+807
+01:09:02,299 --> 01:09:04,791
+que a mamãe achou
+o sapato vermelho dela?
+
+808
+01:09:05,419 --> 01:09:08,540
+Ela estava tão preocupada
+com esse sapato, Matt.
+
+809
+01:09:08,541 --> 01:09:10,621
+Estava debaixo da cama.
+
+810
+01:09:14,851 --> 01:09:16,992
+Dê um abraço
+e um beijão nela
+
+811
+01:09:16,993 --> 01:09:19,706
+e diga que mamãe
+está com saudade.
+
+812
+01:09:19,707 --> 01:09:22,611
+Diga que ela é meu anjo.
+
+813
+01:09:22,612 --> 01:09:26,454
+E que tenho
+muito orgulho dela.
+
+814
+01:09:31,257 --> 01:09:33,305
+Diga que não vou desistir.
+
+815
+01:09:40,587 --> 01:09:42,796
+Diga que eu a amo, Matt.
+
+816
+01:09:43,620 --> 01:09:46,114
+Que eu a amo muito.
+
+817
+01:09:48,497 --> 01:09:50,258
+Você faria isso para mim?
+
+818
+01:09:53,152 --> 01:09:54,786
+Entendido?
+
+819
+01:09:56,724 --> 01:09:58,422
+Aqui vamos nós.
+
+820
+01:10:34,730 --> 01:10:37,161
+Está perdendo altitude,
+Tiangong.
+
+821
+01:10:40,053 --> 01:10:43,215
+Se continuar descendo,
+vai acabar beijando a atmosfera.
+
+822
+01:10:44,072 --> 01:10:47,218
+Mas não sem mim.
+Você é a minha carona.
+
+823
+01:10:50,651 --> 01:10:52,127
+Espere.
+
+824
+01:10:59,411 --> 01:11:00,853
+Cinco.
+
+825
+01:11:01,743 --> 01:11:03,144
+Quatro.
+
+826
+01:11:04,033 --> 01:11:05,412
+Três.
+
+827
+01:11:06,268 --> 01:11:08,316
+Chega de só dirigir.
+
+828
+01:11:09,585 --> 01:11:11,380
+Vamos para casa.
+
+829
+01:11:16,507 --> 01:11:19,317
+Estabilize.
+Vamos!
+
+830
+01:11:20,223 --> 01:11:21,948
+Estabilize.
+
+831
+01:11:22,705 --> 01:11:25,630
+Vamos.
+
+832
+01:11:28,462 --> 01:11:32,960
+Onde você está?
+45º, 90º, 180º.
+
+833
+01:11:40,569 --> 01:11:42,064
+Vamos.
+
+834
+01:11:51,266 --> 01:11:52,580
+Tudo bem.
+
+835
+01:11:55,375 --> 01:11:56,693
+Certo.
+
+836
+01:12:07,976 --> 01:12:09,715
+Tudo bem.
+
+837
+01:12:09,716 --> 01:12:11,022
+Droga.
+
+838
+01:12:13,596 --> 01:12:15,215
+Um pouco mais para baixo.
+
+839
+01:12:16,098 --> 01:12:17,578
+Eu vou conseguir.
+
+840
+01:13:30,558 --> 01:13:31,981
+Certo.
+
+841
+01:13:39,256 --> 01:13:40,695
+Merda!
+
+842
+01:13:50,462 --> 01:13:52,601
+Shenzhou, vamos lá.
+
+843
+01:13:52,602 --> 01:13:54,333
+Shenzhou.
+
+844
+01:13:54,737 --> 01:13:57,046
+Droga.
+É por aqui.
+
+845
+01:13:57,729 --> 01:13:59,129
+Shenzhou.
+
+846
+01:14:06,952 --> 01:14:09,909
+Onde está?
+O que é isso?
+
+847
+01:14:57,475 --> 01:15:01,050
+Na Soyuz,
+o botão de ligar é aqui.
+
+848
+01:15:03,944 --> 01:15:06,596
+Desacoplar...
+
+849
+01:15:08,062 --> 01:15:10,260
+Uni-duni-tê.
+
+850
+01:15:10,261 --> 01:15:11,992
+Acho que isso não é bom.
+
+851
+01:15:11,993 --> 01:15:15,344
+Vou escolher esse daqui.
+
+852
+01:15:16,159 --> 01:15:18,045
+Não falo chinês.
+
+853
+01:15:19,382 --> 01:15:21,972
+Mamãe mandou
+eu escolher esse daqui.
+
+854
+01:15:23,248 --> 01:15:25,676
+Ótimo.
+
+855
+01:15:34,217 --> 01:15:36,325
+Houston às cegas.
+
+856
+01:15:36,326 --> 01:15:38,594
+Aqui é a especialista
+Ryan Stone,
+
+857
+01:15:38,595 --> 01:15:40,353
+falando da Shenzhou.
+
+858
+01:15:40,354 --> 01:15:42,943
+Vou desacoplar da Tiangong.
+
+859
+01:15:47,166 --> 01:15:49,852
+Tenho um mau pressentimento
+em relação a essa missão.
+
+860
+01:15:52,459 --> 01:15:54,675
+Me faz lembrar
+de uma história...
+
+861
+01:15:56,773 --> 01:16:01,348
+Esqueça a história, Houston.
+Esqueça.
+
+862
+01:16:03,256 --> 01:16:05,677
+Está esquentando aqui.
+
+863
+01:16:05,678 --> 01:16:06,978
+Tudo bem.
+
+864
+01:16:07,295 --> 01:16:08,628
+Certo.
+
+865
+01:16:09,279 --> 01:16:13,809
+Só temos
+dois resultados possíveis.
+
+866
+01:16:13,810 --> 01:16:16,415
+Chegarei inteira lá
+
+867
+01:16:16,416 --> 01:16:18,747
+e terei uma baita história
+para contar.
+
+868
+01:16:18,748 --> 01:16:21,305
+Ou morro queimada
+em 10 minutos.
+
+869
+01:16:22,734 --> 01:16:25,293
+De qualquer forma,
+
+870
+01:16:25,294 --> 01:16:27,216
+não tem problema.
+
+871
+01:16:34,721 --> 01:16:36,357
+De qualquer forma,
+
+872
+01:16:38,550 --> 01:16:40,821
+será
+uma experiência incrível.
+
+873
+01:16:43,203 --> 01:16:44,743
+Estou preparada.
+
+874
+01:18:51,104 --> 01:18:54,288
+<i>Shenzhou às cegas.
+Aqui é Houston.</i>
+
+875
+01:18:54,289 --> 01:18:55,989
+<i>Informe a frequência FM.</i>
+
+876
+01:18:57,466 --> 01:19:00,252
+<i>Rastreamos
+Shenzhou reentrando.</i>
+
+877
+01:19:00,253 --> 01:19:02,979
+<i>Está na escuta?
+Por favor, identifique-se.</i>
+
+878
+01:19:23,729 --> 01:19:25,454
+<i>Aqui é Houston.</i>
+
+879
+01:19:33,655 --> 01:19:35,670
+<i>Por favor, identifique-se.</i>
+
+880
+01:19:37,019 --> 01:19:40,001
+<i>A equipe de resgate
+foi acionada.</i>
+
+881
+01:19:40,002 --> 01:19:42,410
+<i>A equipe de resgate
+está a caminho.</i>
+
+882
+01:19:46,167 --> 01:19:48,726
+<i>Shenzhou às cegas.
+Aqui é Houston.</i>
+
+883
+01:19:48,727 --> 01:19:51,045
+<i>A equipe de resgate
+foi acionada.</i>
+
+884
+01:22:44,499 --> 01:22:45,807
+Obrigada.
+
+885
+01:22:53,207 --> 01:22:54,542
+Não.
+
+886
+01:30:49,517 --> 01:30:52,144
+Tres, dois...
+
+887
+01:30:52,395 --> 01:30:52,561
+...um, lançamento.
+
+888
+01:30:52,561 --> 01:30:54,563
+...um, lançamento.
+
+889
+01:23:50,355 --> 01:23:53,555
+@InSUBs
+www.insubs.com
+
